@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lol2673972390
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 嗨多磨，我是网恋被骗二块二，这是我的网名哦
+
+- 🌱 我目前正在学习web前端
+
+- 📫 联系邮箱 812024076@qq.com
 
 <!---
 lol2673972390/lol2673972390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
